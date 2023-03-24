@@ -26,5 +26,11 @@
 			</div>
 		</div>
 	</div>
+  <div class="row justify-content-center mt-3">
+	<div class="col-md-6 text-center">
+		<p>Already registered? Click <a href="loginform.php">here</a> to login.</p>
+	</div>
+</div>
+
 </body>
 </html>

@@ -23,6 +23,12 @@
         <button class="btn btn-lg btn-primary btn-block mt-3" type="submit">Login</button>
       </form>
     </div>
+    <div class="row justify-content-center mt-3">
+	<div class="col-md-6 text-center">
+		<p>New Here? Click <a href="registerform.php">here</a> to register.</p>
+	</div>
+</div>
+
 
     <!-- jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
